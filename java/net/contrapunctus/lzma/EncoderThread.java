@@ -55,7 +55,7 @@ class EncoderThread extends Thread
         }
         catch( IOException _exn ) {
             exn = _exn;
-            if(DEBUG) dbg.printf("%s exception: %s%n", exn.getMessage());
+            if(DEBUG) dbg.printf("%s exception: %s%n", this, exn.getMessage());
         }
     }
 

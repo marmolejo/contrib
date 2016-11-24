@@ -11,7 +11,6 @@ freenet_ext/build_dir/
 freenet_ext/freenet-ext.jar
 wrapper/build/
 wrapper/lib/
-wrapper/src/java/org/tanukisoftware/wrapper/WrapperInfo.java
 wrapper/src/c/org_tanukisoftware_wrapper_WrapperManager.h
 wrapper/src/c/org_tanukisoftware_wrapper_WrapperManager_ShutdownLock.h
 wrapper/src/c/org_tanukisoftware_wrapper_WrapperManager_WrapperEventListenerMask.h
